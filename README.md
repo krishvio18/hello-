@@ -1,2 +1,2 @@
 # hello-
-test repository
+test repository is created by krishna for learning GIT
